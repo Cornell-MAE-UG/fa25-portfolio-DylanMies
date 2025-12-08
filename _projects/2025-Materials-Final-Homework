@@ -6,9 +6,9 @@ technologies: [Fusion, ANSYS]
 image: assets/images/Untitled picture.png
 ---
 
-<iframe 
-  src="/assets/FinalHomeworkMaterials.pdf" 
-  width="100%" 
+<iframe
+  src="{{ '/assets/FinalHomeworkMaterials.pdf' | relative_url }}"
+  width="100%"
   height="900px"
   style="border: none;">
 </iframe>
