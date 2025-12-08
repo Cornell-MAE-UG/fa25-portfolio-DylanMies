@@ -2,5 +2,6 @@ layout: project
 title: Drive Wrench Design and Testing
 description: Designed a drive wrench and performed FEM Analysis via ANSYS
 technologies: [Fusion, ANSYS]
+image: assets/images/Untitled picture.png
 
 [View/Download my Project]({{ "assets/Final Homework part 2.pdf" | relative_url }}) in PDF format.
