@@ -6,4 +6,4 @@ technologies: [Fusion, ANSYS]
 image: assets/images/Untitled picture.png
 ---
 
-[View/Download my Project]({{ "assets/Final Homework part 2.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/Final Homework part 2.pdf" | relative_url }}) in PDF format.
