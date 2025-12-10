@@ -3,7 +3,7 @@ layout: project
 title: MAE 3270 Project - Drive Wrench Design and Testing
 description: Designed a drive wrench and performed FEM Analysis via ANSYS
 technologies: [Fusion, ANSYS]
-image: assets/images/Untitled picture.png
+image: /assets/images/Materials_CAD.png
 ---
 
 The goal of this project was to design a torque wrench, based off of initial dimensions that we were given, that met certain safety criteria. This portfolio entry contains CAD imagery and screens shots of FEM Analysis of my final design, along with some additional information about the wrench. 
