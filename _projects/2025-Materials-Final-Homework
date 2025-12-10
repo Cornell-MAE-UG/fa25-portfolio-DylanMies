@@ -5,6 +5,9 @@ description: Designed a drive wrench and performed FEM Analysis via ANSYS
 technologies: [Fusion, ANSYS]
 image: assets/images/Untitled picture.png
 ---
+## MAE 3270 Final HW Project
+
+The goal of this project was to design a torque wrench, based off of initial dimensions that we were given, that met certain safety criteria. This portfolio entry contains CAD imagery and screens shots of FEM Analysis of my final design, along with some additional information about the wrench. 
 
 <iframe
   src="{{ '/assets/FinalHomeworkMaterials.pdf' | relative_url }}"
