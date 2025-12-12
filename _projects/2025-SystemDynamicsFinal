@@ -6,7 +6,7 @@ technologies: N/A
 image: /assets/images/imagescubesat20131206cubesat20131206-640.width-1024.jpg
 ---
 
-In this project my group and I researched and created a simple model for a self-adjusting box satellite.
+In this project, my group researched and created a simple model for a self-adjusting box satellite.
 
 <iframe
   src="{{ '/assets/Angular_Sass.docx.pdf' | relative_url }}"
