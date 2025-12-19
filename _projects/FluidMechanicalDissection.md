@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Fluid Mechanical Dissection of a Humidifier
+title: Humidifier Dissection
 description: A fluid mechanical dissection video for a small single room humidifier
 technologies: N/A
 image: /assets/images/PEVALHUM-G_1000x.webp
