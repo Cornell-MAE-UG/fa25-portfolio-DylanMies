@@ -1,0 +1,16 @@
+---
+layout: project
+title: Intro Heat Transfer Problem Set 1
+description: Problem set 1
+technologies: N/A
+image: /assets/images/download.png
+---
+
+This first problem set for my heat transfer class taught me the process and mindset needed to tackle heat transfer questions. Question 1 helped me to sit and think about which modes of heat transfer are present in different situations, and which ones have the greatest effect on an object's behavior. Questions 2 and 3 were my first attempts at working on technical heat transfer questions, and working on these helped me to familiarize myself with the most basic concepts of heat transfer that I will need to work with throughout this class and possibly my career. 
+
+<iframe
+  src="{{ '/assets/P-set_1_Heat_Transfer.pdf' | relative_url }}"
+  width="100%"
+  height="900px"
+  style="border: none;">
+</iframe>
