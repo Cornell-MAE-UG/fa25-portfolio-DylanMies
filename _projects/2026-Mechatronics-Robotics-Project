@@ -1,0 +1,16 @@
+---
+layout: project
+title: Mechatronics - Block Collecting Robot
+description: Block Collecting Robot Competition
+technologies: N/A
+image: /assets/images/Robot_photo.jpg
+---
+
+This project consisted of creating a small robot using a provided chassie and a $50 budget, with the goal of winning a block collecting tournament. The robot was controlled using an arduino uno, two servo motors, and two qti color sensors. My main role in the group for this project, was writing the code that the robot followed during the competition and the milestones that we had to reach throughout the process. I was also involved in the wiring and assembly of the robot. Attached below is a pdf decribing the project requirements. 
+
+<iframe
+  src="{{ '/assets/Robot_Project_Rules_and_Deadlines.pdf' | relative_url }}"
+  width="100%"
+  height="900px"
+  style="border: none;">
+</iframe>
